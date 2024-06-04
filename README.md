@@ -16,7 +16,7 @@ Este repositório tem como objetivo disponibilizar o projeto do Genius, um siste
 
 ## 🎮 Como funciona?
 
-O sistema funciona através do uso de botões. Para iniciar, basta clicar no ícone de "Iniciar Simulação" na própria plataforma e esperar. O jogo começa / recomeça quando todas as luzinhas ( verde, vermelho, azul e amarelo ) são acendidas e um tingle é tocado. Para prosseguir, esperar as luzinhas todas as luzinhas piscarem em sequência. Depois da apresentação da sequência, o sistema espera até que o usuário coloque a ordem correta da sequência apresentada. Caso a sequência for igual, o jogo avança para uma nova fase mais difícil, caso contrário, o jogo recomeça.
+O sistema funciona através do uso de botões. Para iniciar, basta clicar no ícone de "Iniciar Simulação" na própria plataforma e esperar. O jogo começa / recomeça quando todas as luzinhas ( verde, vermelho, azul e amarelo ) são acendidas e um tingle é tocado. Para prosseguir, esperar todas as luzinhas piscarem em sequência. Depois da apresentação da sequência, o sistema espera até que o usuário coloque a ordem correta da sequência apresentada. Caso a sequência for igual, o jogo avança para uma nova fase mais difícil, caso contrário, o jogo recomeça.
 
 ---
 
