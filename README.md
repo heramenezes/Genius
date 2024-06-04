@@ -1,6 +1,13 @@
 # Genius
 ---
 
+## 👤 Integrantes
+
+ - Laura Menezes: https://github.com/heramenezes
+ - Raquel Motta: https://github.com/raksmotta
+
+---
+
 ## 📑 Sobre o repositório
 
 Este repositório tem como objetivo disponibilizar o projeto do Genius, um sistema feito em Arduino através da plataforma Tinkercad, visando simular o famoso jogo de memória dos anos 80.
